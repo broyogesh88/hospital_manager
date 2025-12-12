@@ -3,7 +3,7 @@ from django.shortcuts import render, redirect
 from django.http import HttpResponse
 import requests
 
-API_BASE = "https://hospital-manager-backend-9b1i.onrender.com"   # FastAPI backend
+API_BASE = "hhttps://hospital-manager-backend-e705.onrender.com"   # FastAPI backend
 
 
 # ----------------------------------------------------
